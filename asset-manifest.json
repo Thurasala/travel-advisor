@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travel-advisor/static/css/main.a617e044.chunk.css",
+    "main.js": "/travel-advisor/static/js/main.1bbf3b66.chunk.js",
+    "main.js.map": "/travel-advisor/static/js/main.1bbf3b66.chunk.js.map",
+    "runtime-main.js": "/travel-advisor/static/js/runtime-main.504bee8a.js",
+    "runtime-main.js.map": "/travel-advisor/static/js/runtime-main.504bee8a.js.map",
+    "static/js/2.5f8b4dd6.chunk.js": "/travel-advisor/static/js/2.5f8b4dd6.chunk.js",
+    "static/js/2.5f8b4dd6.chunk.js.map": "/travel-advisor/static/js/2.5f8b4dd6.chunk.js.map",
+    "index.html": "/travel-advisor/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/travel-advisor/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5f8b4dd6.chunk.js.LICENSE.txt": "/travel-advisor/static/js/2.5f8b4dd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.504bee8a.js",
+    "static/js/2.5f8b4dd6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1bbf3b66.chunk.js"
+  ]
+}
